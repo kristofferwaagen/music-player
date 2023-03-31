@@ -8,4 +8,5 @@ Here are some bullet points on what I find currently find challenging in the pro
 - Some difficulty making the program generic (currently fetching data from a specific website, but I want the user to be able to choose which website to collect data from).
 
 ## Note
-There are some issues when trying to run the program due to stack and/or cabal issues (version errors)
+There are some issues when trying to run the program due to stack and/or cabal issues (version errors).
+There are no current executable using cabal nor stack due to the issues mentioned, only the .hs script
