@@ -7,6 +7,7 @@ Here are some bullet points on what I find currently find challenging in the pro
 - Difficult to implement State monad in a good manner (wrote in project proposal that I would use this monad)
 - Some difficulty making the program generic (currently fetching data from a specific website, but I want the user to be able to choose which website to collect data from).
 
-## Note
+## Notes
+This is an early version of the program, thus the progress is quite lacking and will be better over the next few weeks!
 There are some issues when trying to run the program due to stack and/or cabal issues (version errors).
 There are no current executable using cabal nor stack due to the issues mentioned, only the .hs script
